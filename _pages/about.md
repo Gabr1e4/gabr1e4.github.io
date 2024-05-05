@@ -34,9 +34,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ## Education
 <img src="/assets/img/NUS.png" width="180" height = "150" style="vertical-align: middle;">
 <b>National University of Singapore</b>
+
 PhD, Operations Research, 2023-2028(expected)
 
 <img src="/assets/img/cuhksz.png" width="180" height = "180" style="vertical-align: middle;">
 <b>The Chinese University of Hong Kong, Shenzhen</b>
+
 BS, Applied Mathematics, 2019-2023
 
