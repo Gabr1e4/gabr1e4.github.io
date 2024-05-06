@@ -38,7 +38,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 PhD, Operations Research, 2023-2028(expected)</p>
 
 
-<img src="/assets/img/CUHKSZ.png" width="150" height = "170" style="vertical-align: middle;">
+<img src="/assets/img/CUHKSZ.png" width="150" height = "150" style="vertical-align: middle;">
 <p><b>The Chinese University of Hong Kong, Shenzhen</b><br>
 BS, Applied Mathematics, 2019-2023</p>
 
